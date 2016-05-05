@@ -3,10 +3,15 @@ This is firmware for motor bridge cape
 
 You can upgrade the Motor Bridge Cape Firmware for BBG/BBGW/BBB by execute following commands on BBG
 
-git clone
+
+git clone https://github.com/Seeed-Studio/MotorBridgeCapeFirmware
+
 
 cd MotorBridgCapeFirmware
 
+
 The excute make flash command 
 
+
 make flash
+
